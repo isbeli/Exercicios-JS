@@ -1,1 +1,1 @@
-# Exercicios-JS
+# Exercícios JS 🎯
